@@ -15,3 +15,8 @@
   
  📢 The "do-while" it´s a idea to repeat, but you have the authorization to change, good luck to resolve this, follow me on Linkedin, Github and Instagram (@thx0liver)
   
+##
+
+<div align="left" style="display: inline_block"><br>
+    <img align="center" alt="Th-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </div>
